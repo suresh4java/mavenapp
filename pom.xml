@@ -46,7 +46,7 @@
         <configuration>
                 <url>http://34.228.233.180:8081/manager/text</url>
                 <server>Tomcat</server>
-                <path>/mymavenapp</path>
+                <path>/mymavenappsept</path>
         </configuration>
 </plugin>
     </plugins>
