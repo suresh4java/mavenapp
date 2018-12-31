@@ -6,7 +6,7 @@
       <server>
         <id>Tomcat</id>
         <username>tomcat</username>
-        <password>s3cret</password>
+        <password>tomcat</password>
       </server>
 </servers>
 </settings>
